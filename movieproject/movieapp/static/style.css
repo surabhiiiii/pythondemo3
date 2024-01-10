@@ -1,0 +1,14 @@
+body
+{
+background-color:aqua;
+}
+.card-img-top
+{
+    height:300px;
+    width:200px;
+}
+.img    
+{
+    border-left: 300px;
+    top:20px;
+}
